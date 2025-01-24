@@ -1,0 +1,6 @@
+@Sonify.WebApi_HostAddress = http://localhost:5236
+
+GET {{Sonify.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
